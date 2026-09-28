@@ -1,5 +1,7 @@
 /*
+=============================================
 Quality Checks
+=============================================
 Script Purpose:
 This script performs quality checks to validate the integrity, consistency,
 and accuracy of the Gold Layer. These checks ensure:
@@ -9,6 +11,7 @@ and accuracy of the Gold Layer. These checks ensure:
 
 Usage Notes:
 - Investigate and resolve any discrepancies found during the checks.
+=============================================
 */
 
 -- ====================================================================
